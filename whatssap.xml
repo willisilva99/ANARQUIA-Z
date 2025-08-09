@@ -1,9 +1,12 @@
-<news>
-  <entry>
-    <date>2025-08-09T00:00:00Z</date>
-    <title>Junte-se ao grupo whats</title>
-    <text>Comunidade e suporte ativos.</text>
-    <link>https://chat.whatsapp.com/ILn1A5UKIXwBpL7voHsDBo
-</link>
-  </entry>
-</news>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<eihwaz.de>
+	<entry>
+		<link>https://chat.whatsapp.com/ILn1A5UKIXwBpL7voHsDBo</link> 
+		<!-- leave the rest unchanged -->
+		<date>2024-01-01 12:00:00Z</date>
+		<title>Server Panel Deluxe</title>
+		<text></text><imagerelpath></imagerelpath>
+	</entry>
+</eihwaz.de>
