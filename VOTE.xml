@@ -1,8 +1,12 @@
-<news>
-  <entry>
-    <date>2025-08-09T00:00:00Z</date>
-    <title>SITE OFICIAL</title>
-    <text>vote no servidor.</text>
-    <link>https://7daystodie-servers.com/server/151960/vote/</link>
-  </entry>
-</news>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<eihwaz.de>
+	<entry>
+		<link>https://7daystodie-servers.com/server/151960/vote/</link> 
+		<!-- leave the rest unchanged -->
+		<date>2024-01-01 12:00:00Z</date>
+		<title>Server Panel Deluxe</title>
+		<text></text><imagerelpath></imagerelpath>
+	</entry>
+</eihwaz.de>
